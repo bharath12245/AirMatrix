@@ -1,0 +1,7 @@
+project_id = "uzpcqgwcmfyishllmoyk"
+
+[functions.amadeus-search]
+verify_jwt = false
+
+[functions.aerosense-chat]
+verify_jwt = false
